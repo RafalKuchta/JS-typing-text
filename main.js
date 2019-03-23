@@ -6,7 +6,7 @@
 
 const spnText = document.querySelector('.text');
 const spnCursor = document.querySelector('.cursor');
-const txt = ['tekst1', 'tekst2', 'tekst3']
+const txt = ['Dzień dobry!', 'Jak się czujesz!', 'Będzie dobrze :)!']
 
 let activeLetter = -15;
 let activeText = 0;
